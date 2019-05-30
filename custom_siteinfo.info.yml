@@ -1,0 +1,5 @@
+name: Custom Siteinfo
+description: Contains a module which alters Drupal's site info
+type: module
+core: 8.x
+version: 1.0

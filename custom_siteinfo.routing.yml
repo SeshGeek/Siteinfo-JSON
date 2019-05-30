@@ -1,0 +1,7 @@
+custom_siteinfo.data:
+  path: '/pageDataJSON'
+  defaults:
+    _controller: '\Drupal\custom_siteinfo\Controller\ExportPageController::data'
+    _title: 'Page JSON data'
+  requirements:
+    _permission: 'access content'
